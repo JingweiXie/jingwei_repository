@@ -6,6 +6,6 @@ public class Main {
     String address;
 
     public static void main(String[] args) {
-        System.out.println("hello tomorrow!");
+        Main m = new Main();
     }
 }
