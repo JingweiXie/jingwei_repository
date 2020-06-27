@@ -2,7 +2,7 @@ package com.company;
 
 public class AccountBean {
     private int id;
-    private String name;
+    private String littleName;
     private String email;
     private String address;
     private Birthday birthday;
@@ -15,12 +15,12 @@ public class AccountBean {
         this.id = id;
     }
 
-    public String getName() {
-        return name;
+    public String getLittleName() {
+        return littleName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setLittleName(String littleName) {
+        this.littleName = littleName;
     }
 
     public String getEmail() {
@@ -47,8 +47,4 @@ public class AccountBean {
         this.birthday = birthday;
     }
 
-    @Override
-    public String toString() {
-        return this.name + "#" + this.id + "#" + this.address + "#" + this.birthday + "#" + this.email;
-    }
 }
