@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5cf2cec-f068-49ef-a43d-9d8b4d7563ed" name="Default Changelist" comment="first commit test">
-      <change afterPath="$PROJECT_DIR$/src/com/company/AccountBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Birthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/PersonImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AccountBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AccountBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testProject.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +27,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="E:\testProject\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1W60D2PKRBbQS9xwdDTSc6lmRvs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -141,11 +130,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PersonImp" />
       <item itemvalue="JUnit.JacksonTest.writeOthersJSON" />
       <item itemvalue="JUnit.JacksonTest.readJson2Entity" />
       <item itemvalue="JUnit.JacksonTest.readJson2List" />
       <item itemvalue="JUnit.JacksonTest.writeObject2Xml" />
-      <item itemvalue="Application.PersonImp" />
     </list>
     <recent_temporary>
       <list>
@@ -156,18 +145,6 @@
         <item itemvalue="JUnit.JacksonTest.writeOthersJSON" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -187,6 +164,7 @@
       <workItem from="1579570449752" duration="837000" />
       <workItem from="1579571320458" duration="1827000" />
       <workItem from="1582868069573" duration="1640000" />
+      <workItem from="1593255889364" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="first commit test">
       <created>1578455194196</created>
@@ -227,7 +205,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="branch changes" />
@@ -235,97 +213,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="916" y="261" key="#com.intellij.ide.util.MemberChooser" timestamp="1582868238886">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="478" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1593255925922">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="916" y="261" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1582868238886" />
-    <state x="777" y="233" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579570282630">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="478" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1593255925922" />
+    <state x="357" y="174" key="git4idea.merge.GitPullDialog" timestamp="1593255977073">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="777" y="233" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579570282630" />
-    <state x="790" y="154" key="CommitChangelistDialog2" timestamp="1578967914016">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="790" y="154" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1578967914016" />
-    <state x="368" y="128" key="DiffContextDialog" timestamp="1578461374313">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="368" y="128" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578461374313" />
-    <state x="650" y="429" key="FileChooserDialogImpl" timestamp="1579570409644">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="650" y="429" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1579570409644" />
-    <state x="691" y="601" width="382" height="174" key="Github.CreateGistDialog" timestamp="1578454893565">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="691" y="601" width="382" height="174" key="Github.CreateGistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578454893565" />
-    <state width="1223" height="52" key="GridCell.Tab.0.bottom" timestamp="1582869690071">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1223" height="52" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582869690071" />
-    <state width="1223" height="52" key="GridCell.Tab.0.center" timestamp="1582869690071">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1223" height="52" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582869690071" />
-    <state width="1223" height="52" key="GridCell.Tab.0.left" timestamp="1582869690071">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1223" height="52" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582869690071" />
-    <state width="1223" height="52" key="GridCell.Tab.0.right" timestamp="1582869690071">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1223" height="52" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582869690071" />
-    <state width="1048" height="222" key="GridCell.Tab.1.bottom" timestamp="1578996168042">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1048" height="222" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578996168042" />
-    <state width="1048" height="222" key="GridCell.Tab.1.center" timestamp="1578996168042">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1048" height="222" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578996168042" />
-    <state width="1048" height="222" key="GridCell.Tab.1.left" timestamp="1578996168042">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1048" height="222" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578996168042" />
-    <state width="1048" height="222" key="GridCell.Tab.1.right" timestamp="1578996168042">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1048" height="222" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578996168042" />
-    <state x="241" y="342" width="1078" height="708" key="SettingsEditor" timestamp="1579572060275">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="241" y="342" width="1078" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579572060275" />
-    <state x="539" y="220" width="816" height="830" key="Vcs.Push.Dialog.v2" timestamp="1578462951634">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="539" y="220" width="816" height="830" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1578462951634" />
-    <state x="1030" y="452" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578971139926">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="1030" y="452" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1050@0.0.1920.1050" timestamp="1578971139926" />
-    <state x="662" y="605" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578454946168">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="662" y="605" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1578454946168" />
-    <state x="651" y="243" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578995327451">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="651" y="243" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1578995327451" />
-    <state x="814" y="196" width="647" height="801" key="find.popup" timestamp="1578971767102">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="814" y="196" width="647" height="801" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578971767102" />
-    <state x="654" y="479" key="git4idea.merge.GitPullDialog" timestamp="1582869919328">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="654" y="479" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582869919328" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1578995285498">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578995285498" />
-    <state x="800" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1578971734470">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="800" y="371" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578971734470" />
+    <state x="357" y="174" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1593255977073" />
   </component>
 </project>
